@@ -20,4 +20,24 @@ Bu proje, siber güvenlik eğitimleri, CTF (Capture The Flag) çözümleri ve la
 **1. Repoyu bilgisayarınıza klonlayın:**
 ```bash
 git clone [https://github.com/OnurTugran/Asistant-Web-API-.git](https://github.com/OnurTugran/Asistant-Web-API-.git)
+cd Asistant-Web-API
+```
+
+**1. Repoyu bilgisayarınıza klonlayın:**
+```bash
+git clone [https://github.com/OnurTugran/Asistant-Web-API-.git](https://github.com/OnurTugran/Asistant-Web-API-.git)
 cd Asistant-Web-API-
+```
+
+**2. Gerekli kütüphaneleri yükleyin:**
+```bash
+pip install flask google-generativeai
+```
+
+**3. Uygulamayı başlatın:**
+```bash
+python app.py
+```
+
+**4. API Anahtarınızı yapılandırın:**
+Uygulama çalıştığında terminal ekranında Gemini API anahtarınız istenecektir. Kendi anahtarınızı yapıştırıp `Enter`'a bastıktan sonra yerel sunucu aktif hale gelecektir. Tarayıcınızdan `http://127.0.0.1:5000` adresine giderek asistanı kullanmaya başlayabilirsiniz.
