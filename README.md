@@ -17,11 +17,6 @@ Bu proje, siber güvenlik eğitimleri, CTF (Capture The Flag) çözümleri ve la
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-**1. Repoyu bilgisayarınıza klonlayın:**
-```bash
-git clone [https://github.com/OnurTugran/Asistant-Web-API-.git](https://github.com/OnurTugran/Asistant-Web-API-.git)
-cd Asistant-Web-API
-```
 
 **1. Repoyu bilgisayarınıza klonlayın:**
 ```bash
